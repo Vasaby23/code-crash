@@ -42,9 +42,7 @@ div{
 
 
   .wait, .img-d {
-    position: absolute;
     transition: transform 2s ease-in-out;
-    left: 0;
   }
   
   .move-right {
